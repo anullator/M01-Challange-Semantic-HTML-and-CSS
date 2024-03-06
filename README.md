@@ -8,8 +8,6 @@ This project is the challenge assignment for Module 01 of the RICE Fullstack Cod
 
 Provide instructions and examples for use. Include screenshots as needed.
 
-TODO: To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![Screenshot of Horiseon Landing Page](./assets/images/screenshot-horiseon-landing-page.png)
 
-![alt text](assets/images/screenshot.png)
-
-TODO: This is the link to the deployed webpage:
+This is the link to the deployed webpage: https://anullator.github.io/fullstack-m01-challenge01/
