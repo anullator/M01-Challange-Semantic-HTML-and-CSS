@@ -6,8 +6,6 @@ This project is the challenge assignment for Module 01 of the RICE Fullstack Cod
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
 ![Screenshot of Horiseon Landing Page](./assets/images/screenshot-horiseon-landing-page.png)
 
 This is the link to the deployed webpage: https://anullator.github.io/fullstack-m01-challenge01/
