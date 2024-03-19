@@ -8,7 +8,7 @@ This project is the challenge assignment for Module 01 of the RICE Fullstack Cod
 
 ![Screenshot of Horiseon Landing Page](./assets/images/screenshot-horiseon-landing-page.png)
 
-This is the link to the deployed webpage: https://anullator.github.io/fullstack-m01-challenge01/
+This is the link to the deployed webpage: https://anullator.github.io/M01-Challange-Semantic-HTML-and-CSS/
 
 ## Credits
 
